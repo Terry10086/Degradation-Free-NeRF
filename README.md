@@ -1,6 +1,6 @@
 ## Description / Implementation
 
-Code for **Robust Neural Radiance Fields: Addressing Degradation Effects through Uncertainty Guidance**.
+Code for **Degradation-Free NeRF: Uncertainty-Guided Neural Radiance Fields against Diverse Degradation Factors**.
 
 The implementation is built upon:
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch), corresponding to the **Ours (NeRF)** model in the paper.
