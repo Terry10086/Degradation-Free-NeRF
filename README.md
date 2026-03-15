@@ -9,6 +9,9 @@ The implementation is built upon:
 The installation procedure follows the instructions provided in the original NeRF and NeuS repositories.
 
 
+## Demo
+![Demo GIF](assets/video.gif)
+
 ## How To Run?
 
 ```
