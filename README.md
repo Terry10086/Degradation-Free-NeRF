@@ -10,7 +10,7 @@ The installation procedure follows the instructions provided in the original NeR
 
 
 ## Demo
-![Demo GIF](assets/video.gif)
+![Demo GIF](assets/output.gif)
 
 ## How To Run?
 
